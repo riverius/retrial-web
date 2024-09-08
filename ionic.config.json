@@ -1,0 +1,7 @@
+{
+  "name": "Retrial Web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
